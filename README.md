@@ -2,12 +2,9 @@
 Hello everyone My name is Ponlawat . so you can call me 'Isac'. 
 
 
-I'm Student.
+I'm student at Computer Enginneeing School(EN-TH-JP).
 
-
-Age : 15 years old.
+Age : 16 years old.
 
 
 My Certificate : https://profile.icdlasia.org/profile/eu-ponlawatphudokmai803331/wallet
-
-Silver Award ประเภท Business Track สาขา Documents, Presentation ในการแข่งขัน ICDL Digital Challenge 2023 ระดับประเทศ 
