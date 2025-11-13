@@ -29,3 +29,16 @@ I'm passionate about exploring how systems work, how to protect them, and how to
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Github Stats⭐
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siripat01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siripat01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siripat01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
